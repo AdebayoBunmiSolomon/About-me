@@ -1,21 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <p>Hi, my name is Ayomide Bamigboye and I’m a front-end developer looking for a new role in an exciting company. I focus on writing accessible HTML, using modern CSS practices and writing clean JavaScript. When writing JavaScript code, I mostly use React, but I can adapt to whatever tools are required. I’m based in Nigeria, the city of Ibadan, but I’m happy working remotely and have experience in remote teams. When I’m not coding, you’ll find me outdoors. I love music especially playing piano. I'd love you to check my work.</p>
+  <p>Hi, my name is Adebayo Bunmi Solomon and I’m a front-end developer looking for a new role in an exciting company. I focus on writing accessible HTML, using modern CSS practices and writing clean JavaScript. When writing JavaScript code, I mostly use Vanilla JS, but I can adapt to whatever tools required. I’m based in Nigeria, the city of Ibadan, but I’m happy working remotely and have experience in remote teams. When I’m not coding, you’ll find me outdoors. I love music especially playing the trap drum. I'd love you to check my work.</p>
  
   <div id="badges">
-  <a href="https://www.linkedin.com/in/ayomide-bamigboye-a477b4171/">
-    <img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/bamigboyeayomi5">
+  <a href="https://twitter.com/BunmiSo1">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="https://wa.me/message/V22CL3KSKY7JE1">
+   <a href="https://wa.me/+2349076544967">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-     <a href="https://facebook.com/ayomide.bamigboye.758">
+     <a href="https://facebook.com/adebayo.bunmi.526">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-     <a href="mailto: bamigboyeayomide200@gmail.com">
+     <a href="mailto: solomon.bunmi@yahoo.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
